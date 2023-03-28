@@ -1,9 +1,6 @@
 <p  float="left">
 
-  
-
-[//]: <img src="https://github.com/andreamaver/DataVisualization/blob/main/images/DSLogo.png" width = "500"/>
-
+<img src="https://github.com/andreamaver/DataVisualization/blob/main/images/DSLogo.png" width = "500"/>
 <img  src="https://github.com/andreamaver/DataVisualization/blob/main/images/BicoccaLogo.png"  width = "100"  align="right"/>
 
 </p>
@@ -24,8 +21,6 @@ To produce a better result we created a web page that describes in detail all th
 The page is available in Italian only.  
 
 ### About us
-
-  
 
 **Andrea Maver - Data Science Graduate @ University of Milano-Bicocca**
 
