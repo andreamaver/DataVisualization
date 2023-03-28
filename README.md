@@ -1,9 +1,10 @@
 <p float="left">
 
- <img src="https://github.com/andreamaver/DataVisualization/blob/main/images/DSLogo.png" width = "500"/>
+ [//]: <img src="https://github.com/andreamaver/DataVisualization/blob/main/images/DSLogo.png" width = "500"/>
  <img src="https://github.com/andreamaver/DataVisualization/blob/main/images/BicoccaLogo.png" width = "100" align="right"/>
 </p>
-<h2 align="center">Digital Signal and Image Management project</h2>
+<h2 align="center">Non solo leggerissima</h2>
+<h2 align="center">Data visualization project</h2>
 
 # Overview
 The project consists in the development of an application for the recognition of one-dimensional signals (audio) and two-dimensional signals (images). Specifically we have developed three different task:
