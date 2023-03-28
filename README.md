@@ -35,6 +35,8 @@ The page is available in Italian only.
 
 * [LinkedIn](https://www.linkedin.com/in/andrea-maver-b19047259/)
 
+* [Tableau public](https://public.tableau.com/app/profile/andreamaver)
+
 
 **Oscar Zanotti - Data Science Graduate @ University of Milano-Bicocca**
 
