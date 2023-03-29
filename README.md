@@ -28,7 +28,7 @@ The page is available in Italian only.
 
 * [GitHub](https://github.com/andreamaver)
 
-* [LinkedIn](https://www.linkedin.com/in/andrea-maver-b19047259/)
+* [LinkedIn](https://www.linkedin.com/in/andrea-maver/)
 
 * [Tableau public](https://public.tableau.com/app/profile/andreamaver)
 
